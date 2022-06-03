@@ -1,0 +1,17 @@
+export const COLORS = {
+  theme: '#371B58',
+  button: '#4C3575',
+  bottomTab: '#151822',
+  sbutton: '#5B4B8A',
+  textInput: '#5b5f65',
+  white: '#fff',
+  lightgray: '#eee',
+  cream: '#FEF5E7',
+  black: '#000',
+  green: '#7DCEA0',
+  lightGreen: '#dcf8c6',
+  yellow: '#EC9B3B',
+  orange: '#F24C4C',
+  liteBlack: '#0e293547',
+  gradient: ['#363062', '#4D4C7D', '#827397'],
+};
